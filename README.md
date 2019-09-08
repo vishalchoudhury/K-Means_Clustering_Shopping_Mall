@@ -1,0 +1,1 @@
+Use-case: One of the shopping mall company has hired you as a Data Scientist. Your role is to create a model that can discover the linear patterns in the data which will have some sensible meaning based on the domain
